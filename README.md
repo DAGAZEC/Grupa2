@@ -10,3 +10,5 @@ Repozytorium dla grupy 2
 # nagłowek 4
 
 # nagłówek 5 
+
+# instrukcja obslugi
